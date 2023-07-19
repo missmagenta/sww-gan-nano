@@ -1,0 +1,4 @@
+enc_out_dim: 768
+kl_coeff: 0.1
+latent_dim: 768
+lr: 1.0e-05
